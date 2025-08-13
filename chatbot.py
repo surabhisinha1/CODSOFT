@@ -16,7 +16,7 @@ def chat_bot():
 
       user_response=input("You: ").lower()
 
-      if ("not good" in user_response or "not well" in user_response or "bad" in user response):
+      if ("not good" in user_response or "not well" in user_response or "bad" in user_response):
         print("SimpBot: Sorry to hear that... Hope you feel goodsooner.")
         continue
 
